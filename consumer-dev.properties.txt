@@ -1,1 +1,1 @@
-myconfig=helloworld
+myconfig="helloworld v1"
